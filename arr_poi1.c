@@ -9,3 +9,5 @@ int main(){
        } 
 return 0;
 }
+// This program demonstrates the use of an array of pointers to strings.
+// It initializes an array of pointers to string literals and prints each string.
