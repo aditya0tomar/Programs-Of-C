@@ -146,4 +146,5 @@ void search()
     }
     
 }
-    
+// This program demonstrates the use of a linked list with basic operations such as creation, display, deletion from the beginning and end, and searching for a value.
+// It uses a struct to define the node structure and provides functions to manipulate the linked list.
